@@ -2,7 +2,7 @@
 h1{
 	white-space: nowrap;
     overflow: hidden;
-    animation: moveRightToLeft 5s linear infinite;
+    animation: moveRightToLeft 10s linear infinite;
 }
 	@keyframes moveRightToLeft {
       0% {
