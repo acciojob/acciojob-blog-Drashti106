@@ -1,15 +1,1 @@
 /*  your css code here. If applicable */
-h1{
-	white-space: nowrap;
-    overflow: hidden;
-    animation: moveRightToLeft 10s linear infinite;
-}
-	@keyframes moveRightToLeft {
-      0% {
-        transform: translateX(100%);
-      }
-      
-      100% {
-        transform: translateX(-100%);
-      }
-}
